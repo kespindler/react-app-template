@@ -1,0 +1,23 @@
+html, body {
+    width:100%;
+    height:100%;
+    font-family:Arial,SansSerif;
+    font-size:13px;
+    line-height:2;
+    background:#54798c;
+    margin:0;
+}
+div {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+div:focus, input:focus {
+    outline:none;
+}
+a {
+    text-decoration: none;
+}
+#root {
+    height:100%;
+}
